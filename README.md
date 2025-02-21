@@ -27,3 +27,4 @@ ng generate component menú
 
 https://www.youtube.com/watch?v=9xtxmQLy7Yc
 https://github.com/gavilanch/angular-asp.net-core-youtube-esp/tree/main/Video%202%20-%20Haciendo%20un%20CRUD/app-de-angular
+https://github.com/gavilanch/angular-asp.net-core-youtube-esp/tree/main/Video%202%20-%20Haciendo%20un%20CRUD/app-de-angular
